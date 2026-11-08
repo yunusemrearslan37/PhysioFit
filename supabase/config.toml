@@ -1,0 +1,11 @@
+[functions.ai-coach-chat]
+verify_jwt = true
+
+[functions.register-device-token]
+verify_jwt = true
+
+[functions.send-push]
+verify_jwt = true
+
+[functions.send-reengagement]
+verify_jwt = false
